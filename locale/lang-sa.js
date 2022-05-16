@@ -167,7 +167,7 @@
 
 /*global SnapTranslator*/
 
-SnapTranslator.dict.hi = {
+SnapTranslator.dict.sa = {
 
 /*
     Special characters: (see <http://0xcc.net/jsescape/>)
@@ -217,17 +217,17 @@ SnapTranslator.dict.hi = {
 
     // editor:
     'draggable':
-        'खींचने योग्य',
+        'कर्षनीयम्',
 
     // tabs:
     'Scripts':
-        'स्क्रिप्ट',
+        'क्रमादेशाः',
     'Costumes':
-        'पोशाक',
+        'वेषभूषाः',
     'Backgrounds':
-        'पृष्ठभूमि',
+        'पृष्ठभूमयः',
     'Sounds':
-        'आवाज़',
+        'ध्वनयः',
 
     // names:
     'Sprite':
