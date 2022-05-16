@@ -2,9 +2,10 @@
 
     lang-hi.js
 
-    Hindi translation for SNAP!
+    Sanskrit translation for SNAP!
 
-    written by Barthdry (Barath Kumar)
+    written by Sanjay Pande
+    Adapted from Hindi by Barthdry (Barath Kumar)
 
     Copyright (C) 2021 by Jens Mönig
 
@@ -177,38 +178,38 @@ SnapTranslator.dict.hi = {
 
     // translations meta information
     'language_name':
-        'हिंदी', // the name as it should appear in the language menu
+        'संस्कृतम्', // the name as it should appear in the language menu
     'language_translator':
-        'Barthdry', // your name for the Translators tab
+        'sanjay-pande', // your name for the Translators tab
     'translator_e-mail':
-        'barathkumarbasker2007@gmail.com', // optional
+        'sanjaypande@yahoo.com', // optional
     'last_changed':
-        '2021-05-08', // this, too, will appear in the Translators tab
+        '2022-05-16', // this, too, will appear in the Translators tab
 
     // GUI
     // control bar:
     'untitled':
-        'शीर्षकहीन',
+        'उपाधिहीनः',
     'development mode':
-        'विकास मोड',
+        'विकास दशा',
 
     // categories:
     'Motion':
-        'प्रस्ताव',
+        'गति',
     'Looks':
-        'नज़र',
+        'स्वरूप',
     'Sound':
-        'आवाज़',
+        'ध्वनि',
     'Pen':
-        'कलम',
+        'लेखनी',
     'Control':
-        'नियंत्रण',
+        'नियंत्रणं',
     'Sensing':
-        'संवेदन',
+        'संवेदनम्',
     'Operators':
-        'ऑपरेटर',
+        'कारक',
     'Variables':
-        'चर',
+        'विकार्यः',
     'Lists':
         'सूची',
     'Other':
