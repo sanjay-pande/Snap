@@ -231,17 +231,17 @@ SnapTranslator.dict.sa = {
 
     // names:
     'Sprite':
-        'स्प्राइट',
+        'विद्याधर',
     'Stage':
-        'मंच',
+        'वेदिका',
 
     // rotation styles:
     'don\'t rotate':
-        'घुमाएँ नहीं',
+        'न परिभ्रमन्तु',
     'can rotate':
-        'घुमा सकते हैं',
+        'परिभ्रमितुं शक्नोति',
     'only face left/right':
-        'केवल बाएं / दाएं चेहरा',
+        'केवलं वाम/दक्षिण मुखम्',
 
     // new sprite button:
     'add a new sprite':
